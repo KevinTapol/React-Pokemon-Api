@@ -1,3 +1,6 @@
+This is a bare bones React app that I used axios to fetch a serverside pokemon api.
+The only hooks I'm currently using are useState for page render and object deconstruction and useEffect to use axios.get() to fetch the api using a promise to navigate pages handled by buttons using useState.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
